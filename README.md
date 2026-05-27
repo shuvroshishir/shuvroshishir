@@ -2,23 +2,17 @@
 
 # 💫 About Me
 
-I'm a passionate **MERN Stack Developer** and a **Computer Science & Engineering student** at Daffodil International University. I enjoy building modern, responsive, and user-friendly web applications that solve real-world problems.
 
-Currently, I'm focused on improving my full-stack development skills by working with technologies like **React.js, Next.js, Node.js, Express.js, and MongoDB**. I love exploring clean UI design, responsive layouts, authentication systems, REST APIs, and scalable backend architecture.
-
-I'm also continuously learning about modern web technologies, performance optimization, and AI-driven development to become a better developer every day.
-
-I enjoy turning ideas into fully functional projects and sharing my learning journey through real-world applications.
-
-* 🌱 Currently learning: Advanced MERN Stack & AI-driven web development
-* 💻 Focused on: Full-stack development & responsive UI/UX
-* 🚀 Building modern and scalable web applications
-* 🎯 Goal: Become a professional full-stack developer
-* ⚡ Passionate about clean code and user-friendly experiences
 
 
 # 🌐 Connect With Me
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shishirkarmokar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shuvroshishir) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshishirkarmokar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_shuvroshishir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishirkarmokar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shuvr0shishir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuvroshishir.dev@gmail.com) 
+[![Website Badge](https://img.shields.io/badge/-Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shishir-karmokar-portfolio.vercel.app/?ref=github-profile-readme-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shishirkarmokar) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuvroshishir.dev@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshishirkarmokar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_shuvroshishir) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shuvr0shishir) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shuvroshishir) 
 
 # 💻 Tech Stack
 
@@ -26,14 +20,9 @@ I enjoy turning ideas into fully functional projects and sharing my learning jou
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-
-
-### 🎨 UI & Styling
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -57,7 +46,6 @@ I enjoy turning ideas into fully functional projects and sharing my learning jou
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 
@@ -67,9 +55,6 @@ I enjoy turning ideas into fully functional projects and sharing my learning jou
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
-### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -82,7 +67,7 @@ I enjoy turning ideas into fully functional projects and sharing my learning jou
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=shuvroshishir&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shuvroshishir&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shuvroshishir&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
