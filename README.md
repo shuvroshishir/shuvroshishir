@@ -2,15 +2,11 @@
 
 # 💫 About Me
 
-I'm an aspiring **Full Stack Developer** and a **Computer Science & Engineering student** at Daffodil International University, passionate about building modern, scalable, and user-friendly web applications.
+I'm an aspiring **Full Stack Developer** and a **CSE student** at Daffodil International University, passionate about building modern, scalable, and user-friendly web applications.
 
-I have hands-on experience working with technologies like **React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Better Auth Authentication** while developing real-world full-stack projects. I enjoy creating responsive interfaces, REST APIs, authentication systems, and clean backend architectures that deliver smooth user experiences.
+I work with technologies like **React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Better Auth** to create responsive full-stack applications with clean UI and efficient backend systems.
 
-Currently, I’m expanding my knowledge in advanced MERN stack development, performance optimization, and AI-driven web applications. I also love exploring modern UI/UX design principles and transforming ideas into visually appealing and functional products.
-
-In addition to web development, I have experience with programming languages such as **JavaScript, TypeScript, C, C++, Java, and Python**. I continuously practice problem-solving and improve my development skills through building projects and learning modern technologies.
-
-I’m highly motivated to grow as a developer, collaborate on impactful projects, and contribute to innovative solutions that create real-world value. Let’s connect and build something amazing together 🚀
+Currently, I'm focused on improving my MERN stack skills, exploring AI-driven development, and building real-world projects that solve practical problems. I enjoy learning new technologies, improving my problem-solving abilities, and turning ideas into impactful digital experiences 🚀
 
 
 # 🌐 Connect With Me
