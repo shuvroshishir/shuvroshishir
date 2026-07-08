@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="Light Cover Photo" src="https://github.com/user-attachments/assets/07c1635c-e082-4f31-ab36-e45dce7e2922" />
+
 # Hi there, I'm Shishir 👋
 
 # 💫 About Me
