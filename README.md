@@ -8,8 +8,16 @@ I'm an aspiring **Full Stack Developer** and a **CSE student** at Daffodil Inter
 
 I work with technologies like **React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Better Auth** to create responsive full-stack applications with clean UI and efficient backend systems.
 
-Currently, I'm focused on improving my MERN stack skills, exploring AI-driven development, and building real-world projects that solve practical problems. I enjoy learning new technologies, improving my problem-solving abilities, and turning ideas into impactful digital experiences 🚀
+Currently, I'm focused on improving my MERN stack skills, exploring AI-driven development, and building real-world projects that solve practical problems. I enjoy learning new technologies, improving my problem-solving abilities, and turning ideas into impactful digital experiences 
 
+## 🎯 Current Activities
+
+- 🌱 Exploring Next.js and modern web technologies.
+- 💻 Building full-stack MERN applications.
+- 📚 Solving Data Structures & Algorithms problems.
+- ☕ Improving my Java & OOP skills.
+- 🎨 Creating responsive and modern UI with Tailwind CSS.
+- 🚀 Continuously learning and building impactful projects.
 
 # 🌐 Connect With Me
 [![Website Badge](https://img.shields.io/badge/-Portfolio-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://shishir-karmokar-portfolio.vercel.app/?ref=github-profile-readme-badge)
